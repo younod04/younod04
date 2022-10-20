@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @younod04
-- 👀 I’m interested in game development .
-- 🌱 I’m currently learning c++ and lua
+- 👀 I’m interested in game development and good project .
+- 🌱 I’m currently learning lua and know python
 - 💞️ I’m looking to collaborate on game development .
 - 📫 How to reach me, gmail : ultrayoumile@gmail.com
 
